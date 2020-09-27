@@ -5,5 +5,7 @@
         "--load-plugins=pylint_django",
         "--max-parents=25",
         "--disable=C0111"
-    ]
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
 }
